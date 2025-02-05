@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+.header{
+    background-color: orange;
+    border-radius: 30px;
+}
+h1{
+    color: black;
+}
+h2{
+    color: black;
+}
+h3{
+    color: black;
+}
+h4{
+    color: black;
+}
+h5{
+    color: black;
+}
+h6{
+    color: black;
+}
+p{
+    color: black;
+}
+img{
+    width: 400px;
+    height:400px;
+}
